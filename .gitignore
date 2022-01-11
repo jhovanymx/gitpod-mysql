@@ -1,3 +1,5 @@
 *.class
 vendor
-npm_modules
+node_modules
+dist
+target
